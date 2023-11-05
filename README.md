@@ -1,33 +1,14 @@
-
-
-Settings
-
-Hi! Here some our recommendations to get the best out of BLACKBOX:
-
-Be as clear as possible
-
-End the question in what language you want the answer to be, e.g: ‘connect to mongodb in python
-or you can just
-Go to Blackbox
-Here are some suggestion (choose one):
-Write a function that reads data from a json file
-How to delete docs from mongodb in phyton
-Connect to mongodb in nodejs
-Ask any coding question
-send
-refresh
-Blackbox AI Chat is in beta and Blackbox is not liable for the content generated. By using Blackbox, you acknowledge that you agree to agree to Blackbox's Terms and Privacy Policy
-### Hey Sourav here 👋
+### Hey Amiir Muse Here 👋
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/ENG-AMIIR-MUSE/ENG-AMIIR-MUSE/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **FreeLancing: Web-based  Project For FreenLancers**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
@@ -89,12 +70,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 <br/>
 
 
----
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
 
 ---
 
@@ -102,11 +77,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [Souravdey777](https://github.com/ENG-AMIIR-MUSE)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
