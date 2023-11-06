@@ -3,10 +3,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ENG-AMIIR-MUSE/ENG-AMIIR-MUSE/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0bUnHjbpydeOfN3H5bsTRv&ust=1699390111387000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDrr9GfsIIDFQAAAAAdAAAAABAE" alt="Intro Card">
 </p>
-
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Full-stack  the world with User Experience with my De
  
  🔭 I’m planning for a Project **FreeLancing: Web-based  Project For FreenLancers**.
  
