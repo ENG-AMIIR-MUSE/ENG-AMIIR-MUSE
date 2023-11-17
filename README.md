@@ -1,4 +1,5 @@
-### Hey Amiir Muse Here 👋
+
+    ### Hey Amiir Muse Here 👋
 
 ---
  <div style="width: 100%; height: 400px; background-color: red">
@@ -19,18 +20,15 @@ I am a Full-stack  the world with User Experience with my De
  
  🔭 I’m planning for a Project **FreeLancing: Web-based  Project For FreenLancers**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> React Native For Mobile Apps
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
+
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -86,5 +84,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/ENG-AMIIR-MUSE)
+:star: From [Eng Amir](https://github.com/ENG-AMIIR-MUSE)
 
