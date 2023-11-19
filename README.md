@@ -16,7 +16,7 @@
         alt="Intro Card"
       />
     </div>
-I am a Full-stack  the world with User Experience with my De
+I am a Full-stack  Experienced Front End with Backend
  
  🔭 I’m planning for a Project **FreeLancing: Web-based  Project For FreenLancers**.
  
