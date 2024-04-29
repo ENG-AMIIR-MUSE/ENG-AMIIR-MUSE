@@ -4,7 +4,7 @@
 ---
 <img width="100%" src="https://i.ibb.co/JK1PN3p/cover.jpg">
 <h1 align="center">Hi 👋, I'm Amiir Muse Hassan </h1>
-<h4 align="center">A Passionate Developer with HTML || CSS || JavaScript || React Js || Redux || Redux Toolkit || React Query || TailwindCSS || DaisyUI || Next Js || TypeScript || MongoDB || Express || Node Js</h4>
+<h3 align="center">A Passionate Developer with HTML || CSS || JavaScript || React Js || Redux || Redux Toolkit || React Query || TailwindCSS || DaisyUI || Next Js || TypeScript || MongoDB || Express || Node Js</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/XXq1r46/Simple-Black-and-White-Text-Instagram-Post-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaasiinaxmed&label=Profile%20views&color=0e75b6&style=flat" alt="yaasiinaxmed" /> </p>
@@ -66,11 +66,11 @@
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left">
+<a href="https://twitter.com/yaasiin__ahmed" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="Amiir Whatsapp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eng-amiir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amiir Linkedln" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amir_muse_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amiir Instagram" height="30" width="40" /></a>
+</p>
 
 <br/>
 
