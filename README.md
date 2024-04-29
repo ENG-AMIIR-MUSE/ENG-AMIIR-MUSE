@@ -4,7 +4,8 @@
 ---
 <img width="100%" src="https://i.ibb.co/JK1PN3p/cover.jpg">
 <h1 align="center">Hi 👋, I'm Amiir Muse Hassan </h1>
-<h3 align="center">A passionate Mern Stack developer from Somalia</h3>
+<h4 align="center">A Passionate Developer with HTML || CSS || JavaScript || React Js || Redux || Redux Toolkit || React Query || TailwindCSS || DaisyUI || Next Js || TypeScript || MongoDB || Express || Node Js</h4>
+
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/XXq1r46/Simple-Black-and-White-Text-Instagram-Post-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaasiinaxmed&label=Profile%20views&color=0e75b6&style=flat" alt="yaasiinaxmed" /> </p>
 
@@ -15,8 +16,7 @@
 -  💬 Ask me about Full Stack Development, Frontend , backend , Databases  and any Tech-related stuff.
 
 - 📫 How to reach me **amircoder0@gmail.com**
-
-- 📄 Know about my experiences [Portfolio](https://web-portfolio-flax-five.vercel.app/)
+  
 - 📄 Know about my experiences <a href="https://web-portfolio-flax-five.vercel.app/" target="_blank">Portfolio</a>
 
 
