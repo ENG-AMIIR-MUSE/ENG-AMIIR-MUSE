@@ -17,6 +17,8 @@
 - 📫 How to reach me **amircoder0@gmail.com**
 
 - 📄 Know about my experiences [Portfolio](https://web-portfolio-flax-five.vercel.app/)
+- 📄 Know about my experiences <a href="https://web-portfolio-flax-five.vercel.app/" target="_blank">Portfolio</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
