@@ -2,34 +2,30 @@
     ### Hey Amiir Muse Here 👋
 
 ---
- <div style="width: 100%; height: 400px; background-color: red">
-      <img
-        style="
-          width: 100%;
-          height: 100%;
-          object-fit: cover;
-          object-position: center;
-        "
-        src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
-        width="100%"
-        height="300"
-        alt="Intro Card"
-      />
-    </div>
-I am a Full-stack  Experienced Front End with Backend
- 
- 🔭 I’m planning for a Project **FreeLancing: Web-based  Project For FreenLancers**.
- 
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"> React Native For Mobile Apps
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
+<img width="100%" src="https://i.ibb.co/JK1PN3p/cover.jpg">
+<h1 align="center">Hi 👋, I'm Amiir Muse Hassan </h1>
+<h3 align="center">A passionate Mern Stack developer from Somalia</h3>
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/XXq1r46/Simple-Black-and-White-Text-Instagram-Post-1.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaasiinaxmed&label=Profile%20views&color=0e75b6&style=flat" alt="yaasiinaxmed" /> </p>
 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+- 🔭 I’m currently working on Somali Freelancing Website && Jumahuriya Univeversity (JUSA system) 👨‍💻 
 
+- 🌱 I'm planning to learn **Dart & Flutter**
 
+-  💬 Ask me about Full Stack Development, Frontend , backend , Databases  and any Tech-related stuff.
+
+- 📫 How to reach me **amircoder0@gmail.com**
+
+- 📄 Know about my experiences [Portfolio](https://web-portfolio-flax-five.vercel.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yaasiin__ahmed" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="Amiir Whatsapp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eng-amiir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amiir Linkedln" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amir_muse_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amiir Instagram" height="30" width="40" /></a>
+</p>
+
+ 💬 If You Have a Project  , lets Us Collobarate
 
 ---
 
