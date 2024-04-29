@@ -2,7 +2,7 @@
     ### Hey Amiir Muse Here 👋
 
 ---
-<img width="100%" src="https://i.ibb.co/JK1PN3p/cover.jpg">
+<img width="100%" height = 400 src="https://i.ibb.co/JK1PN3p/cover.jpg">
 <h1 align="center">Hi 👋, I'm Amiir Muse Hassan </h1>
 <h3 align="center">A Passionate Developer with HTML || CSS || JavaScript || React Js || Redux || Redux Toolkit || React Query || TailwindCSS || DaisyUI || Next Js || TypeScript || MongoDB || Express || Node Js</h3>
 
