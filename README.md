@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/ENG-AMIIR-MUSE?v=4" width="180" alt="Amiir Muse Hassan" style="border-radius:50%;" />
+  <img src="Media.jpg" width="180" alt="Amiir Muse Hassan" style="border-radius:50%;" />
 </p>
 
 <p align="center">
