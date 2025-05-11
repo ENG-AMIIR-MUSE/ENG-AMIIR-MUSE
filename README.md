@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Amiir+Muse+Hassan;Fullstack+Developer+%7C+Frontend+%7C+Backend+%7C+Database;Let's+Code+Something+Amazing+Together!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="Media.jpg" width="240" alt="Amiir Muse Hassan" style="border-radius:20px;" />
 </p>
 
-<p align="center">
-  <img src="Media.jpg" width="180" alt="Amiir Muse Hassan" style="border-radius:50%;" />
-</p>
+<h1 align="center">Hi 👋, I'm Amiir Muse Hassan</h1>
+<h3 align="center">Fullstack Developer | Frontend | Backend | Database | Mobile</h3>
 
 <p align="center">
   <a href="https://github.com/ENG-AMIIR-MUSE">
@@ -25,25 +24,29 @@
 
 ## 🚀 About Me
 
-I'm **Amiir Muse Hassan**, a passionate **Fullstack Software Developer** from Somalia 🇸🇴, specializing in:
+I'm **Amiir Muse Hassan**, a passionate and results-driven Fullstack Software Developer from Somalia 🇸🇴.  
+I specialize in building robust, scalable, and user-friendly web and mobile applications.  
+I thrive on solving complex problems, learning new technologies, and collaborating with other passionate developers.
+
 - **Frontend:** React.js, Next.js, Redux, TailwindCSS, DaisyUI
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB, MySQL
+- **Mobile:** Dart, Flutter
 - **Other:** TypeScript, JavaScript, CSS, HTML
 
-> **"Turning ideas into reality through code and creativity."**
+> **"Transforming ideas into powerful digital solutions through code and creativity."**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,flutter,react,nextjs,redux,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-## 🌟 My GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ENG-AMIIR-MUSE&show_icons=true&theme=radical" height="180"/>
