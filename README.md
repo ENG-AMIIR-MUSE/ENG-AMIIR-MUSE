@@ -1,14 +1,14 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Amiir+Muse+Hassan;Fullstack+Developer+%7C+Frontend+%7C+Backend+%7C+Database+%7C+Mobile;Let's+Code+Something+Amazing+Together!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-<p align="center">
+<p align="left">
   <table>
     <tr>
       <td>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Hi+%F0%9F%91%8B%2C+I'm+Amiir+Muse+Hassan;Fullstack+Developer;Frontend+%7C+Backend+%7C+Database+%7C+Mobile" alt="Typing SVG" />
       </td>
       <td>
-        <img src="amir.png" width="180" alt="Amiir Muse Hassan" style="border-radius:20px;" />
+        <img src="Media.jpg" width="180" alt="Amiir Muse Hassan" style="border-radius:20px;" />
       </td>
     </tr>
   </table>
