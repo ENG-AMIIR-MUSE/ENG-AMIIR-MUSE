@@ -6,7 +6,7 @@
   <img src="Media.jpg" width="240" alt="Amiir Muse Hassan" style="border-radius:20px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Amiir Muse Hassan</h1>
+<h1 align="left">Hi 👋, I'm Amiir Muse Hassan</h1>
 <h3 align="center">Fullstack Developer | Frontend | Backend | Database | Mobile</h3>
 
 <p align="center">
